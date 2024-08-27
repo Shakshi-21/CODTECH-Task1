@@ -1,4 +1,3 @@
-# CODTECH-Task1
 **Name:** Shakshi Bhattacharya\
 **Company:** CODTECH IT SOLUTIONS\
 **ID:** CT08DS7079\
