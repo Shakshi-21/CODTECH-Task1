@@ -29,7 +29,7 @@ The objective of this project is to develop a comprehensive Java-based online ba
 
 ### Key Insights
 **1. Enhanced User Interaction:** Utilizes Java I/O for seamless user interaction through a command-line interface for managing accounts and transactions.\
-**2. Object-Oriented Design:** Employs OOP principles to ensure modular, maintainable code with reusable classes for various banking operations.\
+**2. Object-Oriented Design:** Employs OOP principles to ensure modular,maintainable code with reusable classes for various banking operations.\
 **3. Transaction Management:** Implements secure and efficient handling of financial transactions, including deposits, withdrawals, and transfers.\
 **4. Dynamic Data Handling:** Uses Java Collections Framework to efficiently manage dynamic data, ensuring flexibility and scalability.
 
