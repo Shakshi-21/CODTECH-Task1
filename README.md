@@ -7,6 +7,7 @@
 **Mentor:** Neela Santhosh Kumar
 
 ## Overview of the Project
+![Task1_a](https://github.com/user-attachments/assets/482afab3-7d77-4613-9f4d-b42a7975280e)
 
 ### Project: Online Banking System
 
@@ -14,15 +15,17 @@
 The objective of this project is to develop a comprehensive Java-based online banking system that enables users to create accounts, manage personal information, and perform banking transactions such as deposits, withdrawals, and money transfers.
 
 ## Key Activities
-**1. Account Management:** Allows users to create new bank accounts, view account details, and manage personal information, including account type and balance.\
-**2.Transaction Handling:** Provides functionalities for depositing and withdrawing funds, as well as transferring money between accounts.\
-**3.Transaction History Tracking:** Maintains a detailed transaction history for each account, enabling users to review past transactions.\
+**1. Account Management:** Allows users to create new bank accounts, view account details, and manage personal information.\
+**2. Transaction Handling:** Provides functionalities for depositing and withdrawing funds, as well as transferring money between accounts.\
+**3. Transaction History Tracking:** Maintains a detailed transaction history for each account, enabling users to review past transactions.\
 
 ## Technologies Used
 **1. Java (JDK 22.0.2):** The primary programming language.\
 **2. Java Collections Framework:** Utilized to manage data structures such as ArrayList for storing multiple bank accounts.\
 **3. Notepad:** Used as a simple text editor to write and edit the Java code.\
 **4. Command Prompt(cmd):** Used to compile and run the Java program, providing an interface to execute Java commands and interact with the application.\
+
+## Key Insights
 
 
 
