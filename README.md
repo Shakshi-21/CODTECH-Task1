@@ -1,8 +1,8 @@
 # CODTECH-Task1
 **Name:** Shakshi Bhattacharya
-**Company:** CODTECH IT SOLUTIONS
-**ID:** 
-**Domain:**
+\n**Company:** CODTECH IT SOLUTIONS
+\n**ID:** 
+\n**Domain:**
 **Duration:**
 
 ## Overview of the Project
