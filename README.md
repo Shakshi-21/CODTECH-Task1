@@ -8,6 +8,8 @@
 
 ## Overview of the Project
 ![Task1_a](https://github.com/user-attachments/assets/482afab3-7d77-4613-9f4d-b42a7975280e)
+![Task1_b](https://github.com/user-attachments/assets/06ff70af-e427-4ef6-a091-06c0f13d4932)
+![Task1_d](https://github.com/user-attachments/assets/b4dac0df-e956-4d06-9a57-10016c17fe09)
 
 ### Project: Online Banking System
 
