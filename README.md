@@ -12,7 +12,7 @@
 ![Task1_b](https://github.com/user-attachments/assets/06ff70af-e427-4ef6-a091-06c0f13d4932)
 ![Task1_d](https://github.com/user-attachments/assets/b4dac0df-e956-4d06-9a57-10016c17fe09)
 
-### Project: Online Banking System
+### Project: Online Banking System Using Java Programming
 
 ### Objective
 The objective of this project is to develop a comprehensive Java-based online banking system that enables users to create accounts, manage personal information, and perform banking transactions such as deposits, withdrawals, and money transfers.
