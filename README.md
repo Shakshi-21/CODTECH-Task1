@@ -2,8 +2,7 @@
 **Company:** CODTECH IT SOLUTIONS\
 **ID:** CT08DS7079\
 **Domain:** JAVA PROGRAMMING\
-**Duration:** AUGUST 17th,2024 to SEPTEMBER 17th,2024\
-**Mentor:** Neela Santhosh Kumar
+**Duration:** AUGUST 17th,2024 to SEPTEMBER 17th,2024
 
 ## Overview of the Project
 ![Task1_a](https://github.com/user-attachments/assets/482afab3-7d77-4613-9f4d-b42a7975280e) 
